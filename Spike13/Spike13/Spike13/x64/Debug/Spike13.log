@@ -1,0 +1,54 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Spike08.vcxproj, Spike09.vcxproj, Spike10.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  WorldSwitchMessage.cpp
+  WorldSelector.cpp
+  WorldReader.cpp
+  WorldCreator.cpp
+  World.cpp
+  UpdatePlayerMessage.cpp
+  UpdateCurrentRoomMessage.cpp
+  StringUtils.cpp
+e:\halo\coding\visual studio\gp-code\spike13\spike13\spike13\stringutils.cpp(273): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\halo\coding\visual studio\gp-code\spike13\spike13\spike13\stringutils.cpp(284): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  StateController.cpp
+  RoomIterator.cpp
+  Room.cpp
+  Player.cpp
+  Object.cpp
+  NumericUtils.cpp
+  MessageDispatcher.cpp
+  Message.cpp
+  MainMenu.cpp
+  Main.cpp
+  LineResult.cpp
+  Item.cpp
+  Generating Code...
+  Compiling...
+  InventoryView.cpp
+  IInventory.cpp
+  IHasInventory.cpp
+  HallOfFame.cpp
+  GameState.cpp
+  GameSplash.cpp
+  Gameplay.cpp
+  GameMenu.cpp
+  GameEnvironment.cpp
+  EmptyEventArgs.cpp
+  Credits.cpp
+  Connection.cpp
+  Composite.cpp
+  Component.cpp
+  CommandResult.cpp
+  CommandReader.cpp
+  CommandLister.cpp
+  Command.cpp
+e:\halo\coding\visual studio\gp-code\spike13\spike13\spike13\command.cpp(20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  BinaryWriter.cpp
+  BinaryReader.cpp
+  Generating Code...
+  Compiling...
+  BasicInventory.cpp
+e:\halo\coding\visual studio\gp-code\spike13\spike13\spike13\basicinventory.cpp(19): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+e:\halo\coding\visual studio\gp-code\spike13\spike13\spike13\basicinventory.cpp(59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BasicCommand.cpp
+  Generating Code...
+  Spike13.vcxproj -> E:\Halo\Coding\Visual Studio\gp-code\Spike13\Spike13\x64\Debug\Spike13.lib

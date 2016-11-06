@@ -1,0 +1,44 @@
+﻿  WorldSwitchMessage.cpp
+  WorldSelector.cpp
+  WorldReader.cpp
+  WorldCreator.cpp
+  World.cpp
+  NumericUtils.cpp
+  StringUtils.cpp
+e:\halo\coding\visual studio\gp-code\spike11\spike11\spike11\stringutils.cpp(272): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\halo\coding\visual studio\gp-code\spike11\spike11\spike11\stringutils.cpp(283): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  StateController.cpp
+  RoomIterator.cpp
+  Player.cpp
+  MainMenu.cpp
+  Main.cpp
+  Item.cpp
+  Room.cpp
+  Object.cpp
+  MessageDispatcher.cpp
+  Message.cpp
+  Connection.cpp
+  InventoryView.cpp
+  BasicInventory.cpp
+  Generating Code...
+  Compiling...
+  IInventory.cpp
+  IHasInventory.cpp
+  HallOfFame.cpp
+  GameState.cpp
+  GameSplash.cpp
+  Gameplay.cpp
+  GameMenu.cpp
+  GameEnvironment.cpp
+  EmptyEventArgs.cpp
+  Credits.cpp
+  CommandResult.cpp
+  CommandLister.cpp
+  Command.cpp
+e:\halo\coding\visual studio\gp-code\spike11\spike11\spike11\command.cpp(47): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  BinaryWriter.cpp
+  BinaryReader.cpp
+  BasicCommand.cpp
+  Generating Code...
+  LINK : E:\Halo\Coding\Visual Studio\gp-code\Spike11\Spike11\x64\Debug\Spike11.exe not found or not built by the last incremental link; performing full link
+  Spike11.vcxproj -> E:\Halo\Coding\Visual Studio\gp-code\Spike11\Spike11\x64\Debug\Spike11.exe

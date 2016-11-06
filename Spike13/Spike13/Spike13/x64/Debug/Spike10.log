@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Spike08.vcxproj, Spike09.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  InventoryView.cpp
+  Spike10.vcxproj -> E:\Halo\Coding\Visual Studio\Spike10\x64\Debug\Spike10.exe

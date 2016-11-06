@@ -1,0 +1,56 @@
+function populate(int width,int height):
+	array[array[bool]] res
+	for (y = 0, y < height, y++) {
+		for (x = 0, x < width, x++) {
+			res[y][x] = false
+		}
+	}
+	return res
+function in_range(array[array[bool]] grid,int x,int y) {
+	return y >= 0 && y < grid.length && x >= 0 && x < grid[0].length && grid[y][x]
+}
+
+function main:
+	array[array[bool]] grid = populate(8,8)
+	// set impassable cells to true here
+	int x = 2
+	int y = 7
+	string input
+	do {
+		writeline("Current location: {x}, {y}")
+		string[] options
+		if (in_range(x,y - 1)) {
+			options += "n"
+		}
+		if (in_range(x,y + 1)) {
+			options += "s"
+		}
+		if (in_range(x - 1,y)) {
+			options += "w"
+		}
+		if (in_range(x + 1,y)) {
+			options += "e"
+		}
+		writeline("Can move: " + options.join(", "))
+		input = readline()
+		if (input != "q") {
+			int newX = x
+			int newY = y
+			switch (input) {
+				case "n":
+					newY--
+				case "s"
+					newY++
+				case "w"
+					newX--
+				case "e"
+					newX++
+			}
+			if (in_range(grid,newX,newY)) {
+				x = newX
+				y = newY
+			} else {
+				writeline("Cannot move to that tile")
+			}
+		}
+	} while (input != "q")

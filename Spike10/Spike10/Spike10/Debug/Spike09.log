@@ -1,0 +1,43 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Spike08.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  WorldSwitchMessage.cpp
+  WorldSelector.cpp
+  WorldReader.cpp
+  WorldCreator.cpp
+  IInventory.cpp
+h:\vs2015\spike09\spike09\iinventory.cpp(80): error C2471: cannot update program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  IHasInventory.cpp
+h:\vs2015\spike09\spike09\ihasinventory.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  HallOfFame.cpp
+h:\vs2015\spike09\spike09\halloffame.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  Gameplay.cpp
+h:\vs2015\spike09\spike09\gameplay.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  GameState.cpp
+h:\vs2015\spike09\spike09\gamestate.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  GameSplash.cpp
+h:\vs2015\spike09\spike09\gamesplash.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  GameMenu.cpp
+h:\vs2015\spike09\spike09\gamemenu.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  GameEnvironment.cpp
+h:\vs2015\spike09\spike09\gameenvironment.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  EmptyEventArgs.cpp
+h:\vs2015\spike09\spike09\emptyeventargs.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  CurrentRoomMessage.cpp
+h:\vs2015\spike09\spike09\currentroommessage.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  Credits.cpp
+h:\vs2015\spike09\spike09\credits.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  CommandResult.cpp
+h:\vs2015\spike09\spike09\commandresult.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  CommandReader.cpp
+h:\vs2015\spike09\spike09\commandreader.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  CommandLister.cpp
+h:\vs2015\spike09\spike09\commandlister.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  Command.cpp
+h:\vs2015\spike09\spike09\command.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  BinaryWriter.cpp
+h:\vs2015\spike09\spike09\binarywriter.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\Debug\vc140.pdb'
+  Generating Code...
+H:\vs2015\Spike09\Spike09\WorldCreator.cpp : fatal error C1085: Cannot write compiler generated file: 'H:\vs2015\Spike09\Spike09\Debug\WorldCreator.obj': No space left on device
+FileTracker : error FTK1005: could not write rooting file marker to the file tracking log file: H:\vs2015\Spike09\Spike09\Debug\Spike09.tlog\CL.read.1.tlog. There is not enough space on the disk.
+  
+  
+  

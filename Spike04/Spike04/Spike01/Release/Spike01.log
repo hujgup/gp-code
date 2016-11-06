@@ -1,0 +1,15 @@
+﻿  Cell.cpp
+  GameLoop.cpp
+  GameState.cpp
+  Grid.cpp
+  CellOccupier.cpp
+  Main.cpp
+  MovementCommand.cpp
+  Spike1Loop.cpp
+  Spike1State.cpp
+  Generating code
+  768 of 769 functions (99.9%) were compiled, the rest were copied from previous compilation.
+    2 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Spike01.vcxproj -> E:\Halo\Coding\Visual Studio\gp-code\Spike04\Spike04\Release\Spike01.exe

@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  unittest1.cpp
+  LINK : E:\Halo\Coding\Visual Studio\gp-code\Spike13\Spike13\x64\Debug\Spike13Tests.dll not found or not built by the last incremental link; performing full link
+     Creating library E:\Halo\Coding\Visual Studio\gp-code\Spike13\Spike13\x64\Debug\Spike13Tests.lib and object E:\Halo\Coding\Visual Studio\gp-code\Spike13\Spike13\x64\Debug\Spike13Tests.exp
+  Spike13Tests.vcxproj -> E:\Halo\Coding\Visual Studio\gp-code\Spike13\Spike13\x64\Debug\Spike13Tests.dll

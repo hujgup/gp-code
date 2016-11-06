@@ -1,0 +1,70 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Spike08.vcxproj, Spike09.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  WorldSwitchMessage.cpp
+  WorldSelector.cpp
+  WorldReader.cpp
+  WorldCreator.cpp
+  World.cpp
+  UpdatePlayerMessage.cpp
+  UpdateCurrentRoomMessage.cpp
+  StringUtils.cpp
+  StateController.cpp
+  RoomIterator.cpp
+  Room.cpp
+  Player.cpp
+  Object.cpp
+  NumericUtils.cpp
+  MessageDispatcher.cpp
+  Message.cpp
+  MainMenu.cpp
+  Main.cpp
+  LineResult.cpp
+  Item.cpp
+  Generating Code...
+  Compiling...
+  InventoryView.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(245): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  IInventory.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  IHasInventory.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  HallOfFame.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  GameState.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  GameSplash.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  Gameplay.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(245): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  GameMenu.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  GameEnvironment.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstring.h(245): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  EmptyEventArgs.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wtime.h(198): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  Credits.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  Connection.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  Composite.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  Component.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  CommandResult.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wtime.h(198): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  CommandReader.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  CommandLister.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  Command.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  BinaryWriter.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  BinaryReader.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  Generating Code...
+  Compiling...
+  BasicInventory.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  BasicCommand.cpp
+c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\corecrt_wstdio.h(1057): fatal error C1033: cannot open program database 'E:\Halo\Coding\Visual Studio\Spike13\Spike13\Debug\vc140.pdb'
+  Generating Code...

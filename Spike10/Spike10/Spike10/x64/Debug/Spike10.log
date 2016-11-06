@@ -1,0 +1,55 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Spike08.vcxproj, Spike09.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  WorldSwitchMessage.cpp
+  WorldSelector.cpp
+  WorldReader.cpp
+  WorldCreator.cpp
+  World.cpp
+  UpdatePlayerMessage.cpp
+  NumericUtils.cpp
+  StringUtils.cpp
+e:\halo\coding\visual studio\gp-code\spike10\spike10\spike10\stringutils.cpp(273): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\halo\coding\visual studio\gp-code\spike10\spike10\spike10\stringutils.cpp(284): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  StateController.cpp
+  RoomIterator.cpp
+  Player.cpp
+  MainMenu.cpp
+  Main.cpp
+  Item.cpp
+  Room.cpp
+  Object.cpp
+  MessageDispatcher.cpp
+  Message.cpp
+  LineResult.cpp
+  Connection.cpp
+  Generating Code...
+  Compiling...
+  InventoryView.cpp
+  BasicInventory.cpp
+e:\halo\coding\visual studio\gp-code\spike10\spike10\spike10\basicinventory.cpp(19): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+e:\halo\coding\visual studio\gp-code\spike10\spike10\spike10\basicinventory.cpp(59): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  IInventory.cpp
+  IHasInventory.cpp
+  HallOfFame.cpp
+  GameState.cpp
+  GameSplash.cpp
+  Gameplay.cpp
+  GameMenu.cpp
+  GameEnvironment.cpp
+  EmptyEventArgs.cpp
+  UpdateCurrentRoomMessage.cpp
+  Credits.cpp
+  Composite.cpp
+  Component.cpp
+  CommandResult.cpp
+  CommandReader.cpp
+  CommandLister.cpp
+  Command.cpp
+e:\halo\coding\visual studio\gp-code\spike10\spike10\spike10\command.cpp(20): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  BinaryWriter.cpp
+  Generating Code...
+  Compiling...
+  BinaryReader.cpp
+  BasicCommand.cpp
+  Generating Code...
+  LINK : E:\Halo\Coding\Visual Studio\gp-code\Spike10\Spike10\x64\Debug\Spike10.exe not found or not built by the last incremental link; performing full link
+  Spike10.vcxproj -> E:\Halo\Coding\Visual Studio\gp-code\Spike10\Spike10\x64\Debug\Spike10.exe

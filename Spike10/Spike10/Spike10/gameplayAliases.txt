@@ -1,0 +1,12 @@
+look = "examine"
+look = "inspect"
+look = "look" "at"?
+look = "l"
+go = "go" "to"?
+go = "move" "to"?
+quit = "quit"
+quit = "q"
+inv = ["view" "open" "examine"]? "inventory"
+inv = "inv"
+inv = "i"
+hiscore = "hiscore"

@@ -1,0 +1,38 @@
+﻿  WorldSelector.cpp
+  WorldReader.cpp
+  WorldCreator.cpp
+  World.cpp
+  NumericUtils.cpp
+  StringUtils.cpp
+e:\halo\coding\visual studio\gp-code\spike07\spike07\spike07\stringutils.cpp(272): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\halo\coding\visual studio\gp-code\spike07\spike07\spike07\stringutils.cpp(283): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  StateController.cpp
+  RoomIterator.cpp
+  Player.cpp
+  MainMenu.cpp
+  Main.cpp
+  Item.cpp
+  Room.cpp
+  Connection.cpp
+  InventoryView.cpp
+  BasicInventory.cpp
+  IInventory.cpp
+  IHasInventory.cpp
+  HallOfFame.cpp
+  GameState.cpp
+  Generating Code...
+  Compiling...
+  GameSplash.cpp
+  Gameplay.cpp
+  GameMenu.cpp
+  GameEnvironment.cpp
+  Credits.cpp
+  CommandResult.cpp
+  CommandLister.cpp
+  Command.cpp
+e:\halo\coding\visual studio\gp-code\spike07\spike07\spike07\command.cpp(45): warning C4267: 'initializing': conversion from 'size_t' to 'unsigned int', possible loss of data
+  BinaryWriter.cpp
+  BinaryReader.cpp
+  BasicCommand.cpp
+  Generating Code...
+  Spike07.vcxproj -> E:\Halo\Coding\Visual Studio\gp-code\Spike07\Spike07\x64\Debug\Spike07.exe

@@ -1,0 +1,7 @@
+add = "add"
+rmall = "remove" "all"
+rm = "remove"
+count = "count"
+list = "list"
+clear = "clear"
+back = "back"

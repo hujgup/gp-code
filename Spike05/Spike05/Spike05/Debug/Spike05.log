@@ -1,0 +1,15 @@
+﻿  WorldSelector.cpp
+  StringUtils.cpp
+  StateController.cpp
+  MainMenu.cpp
+  Main.cpp
+  HallOfFame.cpp
+  GameState.cpp
+  GameSplash.cpp
+  Gameplay.cpp
+  GameMenu.cpp
+  GameEnvironment.cpp
+  Credits.cpp
+  CommandLister.cpp
+  Generating Code...
+  Spike05.vcxproj -> E:\Halo\Coding\Visual Studio\gp-code\Spike05\Spike05\Debug\Spike05.exe

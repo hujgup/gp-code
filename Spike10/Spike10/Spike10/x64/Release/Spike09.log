@@ -1,0 +1,87 @@
+﻿  BasicCommand.cpp
+BasicCommand.cpp(23): error C2471: cannot update program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  BinaryReader.cpp
+BinaryReader.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  BinaryWriter.cpp
+BinaryWriter.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  Command.cpp
+Command.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  CommandLister.cpp
+CommandLister.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  CommandReader.cpp
+CommandReader.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  CommandResult.cpp
+CommandResult.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  Credits.cpp
+Credits.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  CurrentRoomMessage.cpp
+CurrentRoomMessage.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  EmptyEventArgs.cpp
+EmptyEventArgs.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  GameEnvironment.cpp
+GameEnvironment.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  GameMenu.cpp
+GameMenu.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  Gameplay.cpp
+Gameplay.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  GameSplash.cpp
+GameSplash.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  GameState.cpp
+GameState.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  HallOfFame.cpp
+HallOfFame.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  IHasInventory.cpp
+IHasInventory.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  IInventory.cpp
+IInventory.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  BasicInventory.cpp
+BasicInventory.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  InventoryView.cpp
+InventoryView.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  Compiling...
+  Connection.cpp
+Connection.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  LineResult.cpp
+LineResult.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  Message.cpp
+Message.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  MessageDispatcher.cpp
+MessageDispatcher.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  Object.cpp
+Object.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  Room.cpp
+Room.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  Item.cpp
+Item.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  Main.cpp
+Main.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  MainMenu.cpp
+MainMenu.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  Player.cpp
+Player.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  RoomIterator.cpp
+RoomIterator.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  StateController.cpp
+StateController.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  StringUtils.cpp
+StringUtils.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  NumericUtils.cpp
+NumericUtils.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  World.cpp
+World.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  WorldCreator.cpp
+WorldCreator.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  WorldReader.cpp
+WorldReader.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  WorldSelector.cpp
+WorldSelector.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+  WorldSwitchMessage.cpp
+WorldSwitchMessage.cpp : fatal error C1033: cannot open program database 'H:\vs2015\Spike09\Spike09\x64\Release\vc140.pdb'
+FileTracker : error FTK1006: could not write entry to the file tracking log file: H:\vs2015\Spike09\Spike09\x64\Release\Spike09.tlog\CL.read.1.tlog. There is not enough space on the disk.
+  
+  
+  
+FileTracker : error FTK1003: could not write byte order marker to the new file tracking log file. There is not enough space on the disk.
+  
+  
+  

@@ -1,0 +1,12 @@
+takeFrom = ["remove" "take" "grab"] {1} "from"
+add = ["add" "grab" "take"]
+add = "pick" "up"
+rmall = ["remove" "drop" "discard"] "all"
+rm = ["remove" "drop" "discard"]
+count = "count"
+list = "list"
+clear = ["empty" "dump"]
+clear = "clear" "out"?
+back = ["back" "return" "exit"]
+lookIn = ["look" "peek"] ["in" "into" "inside"]
+putIn = ["put" "stuff"] {1} ["in" "into" "inside"]
